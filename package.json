@@ -1,13 +1,15 @@
-"name": "Paymob-checkout",
-"description": "paymob checkout",
-"author": "Paymob",
-"keywords": ["paymob", "paymob-checkout", "paymob-sdk"],
-"version": "0.1.0",
-"private": false,
-"main": "index.js",
-"module": "index.js",
-"files": [ "dist", "README.md" ],
-"repository": {
-    "type": "git",
-    "url": "git+https://github.com/AhmedElBana/paymob-checkout.git"
-},
+{
+    "name": "paymob-checkout",
+    "description": "paymob checkout",
+    "author": "Paymob",
+    "keywords": ["paymob", "paymob-checkout", "paymob-sdk"],
+    "version": "0.1.0",
+    "private": false,
+    "main": "index.js",
+    "module": "index.js",
+    "files": [ "dist", "README.md" ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AhmedElBana/paymob-checkout.git"
+    }
+}
